@@ -1,0 +1,27 @@
+.board{
+  box-sizing: border-box;
+  display: flex;
+  width: 182px;
+  height: 182px;
+  flex-wrap: wrap;
+  border: 1px solid #333;
+}
+.item_c{
+  box-sizing: border-box;
+  line-height: 60px;
+  text-align: center;
+  width: 60px;
+  height: 60px;
+  border: 1px solid #333;
+  color: #333;
+  font-size: 24px;
+}
+.main_box{
+  display: flex;
+}
+.ul{
+  list-style: none;
+}
+li{
+  list-style: none;
+}
